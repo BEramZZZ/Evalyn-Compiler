@@ -88,9 +88,9 @@ Prints every variable currently defined, one per line, as `name = value`. Prints
 ### Built-in functions
 
 | Function           | Syntax                     | Description                                        |
-| ------------------ | -------------------------- | -------------------------------------------------- | --- | --- |
+| ------------------ | -------------------------- | -------------------------------------------------- |
 | Square root        | `sqrt(x)`                  | Square root of `x`                                 |
-| Absolute value     | `abs(x)`                   | `                                                  | x   | `   |
+| Absolute value     | `abs(x)`                   | Absolute value of `x`                              |
 | Sum                | `somme(a, b, c, ...)`      | Sum of all arguments                               |
 | Average            | `moyenne(a, b, c, ...)`    | Arithmetic mean                                    |
 | Variance           | `variance(a, b, c, ...)`   | Population variance                                |
