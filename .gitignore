@@ -1,0 +1,6 @@
+lex.yy.c
+yacc.tab.c
+yacc.tab.h
+*.exe
+win_flex_bison-latest/
+.vscode/
