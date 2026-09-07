@@ -183,7 +183,7 @@ From inside the project folder, in order:
 ```powershell
 .\win_flex_bison-latest\win_bison.exe -d src\yacc.y
 .\win_flex_bison-latest\win_flex.exe src\LEXX.l
-gcc lex.yy.c yacc.tab.c -o final.exe -lm
+gcc lex.yy.c yacc.tab.c -o Evalyn.exe -lm
 ```
 
 ### Linux / macOS
